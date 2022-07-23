@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 790b990d4d68b854e85d97c294b25b29
+timeCreated: 1652515546
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Speed Racing
+  fontNames:
+  - Speed Racing
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0eca69f0b5ed57b498e58683f83c4b46, type: 3}
+  - {fileID: 12800000, guid: 07a9d66d28dd1dd4584121829909ed6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
